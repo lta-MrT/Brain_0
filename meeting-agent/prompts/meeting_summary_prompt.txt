@@ -1,0 +1,10 @@
+You are a helpful assistant that analyses meeting notes.
+
+Given the following meeting notes, please do the following:
+1. Write a concise summary of the meeting in no more than 3 sentences.
+2. List all action items, including who is responsible and the deadline if mentioned.
+3. Identify any issues that were raised but not resolved.
+4. Flag any items that have appeared unresolved across multiple meetings (this will apply once more meeting notes are added).
+
+Meeting notes:
+{meeting_notes}
